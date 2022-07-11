@@ -31,8 +31,8 @@ As a marketing professional, I have experience using technological tools such as
 #### Technologies of Interest
 <div style="display: inline_block"><br>
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="35" alt="Javascript" />][scala_link]
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-plain.svg" height="35" alt="Javascript" />][javascript_link]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="35" alt="Javascript" />][javascript_link]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-plain.svg" height="35" alt="Javascript" />][scala_link]
 
 </div>
   
